@@ -2,7 +2,7 @@
 const nextConfig = {
   env: {
     // API_PROD_URL: "http://127.0.0.1:8000/api/",
-    API_PROD_URL: "https://buyapi.alibuybd.com/api/",
+    API_PROD_URL: "http://buyapi.alibuybd.com/api/",
     // API_PROD_URL: "https://laravel.pixelstrap.net/fastkart/api/",
     PAYMENT_RETURN_URL: "http://localhost:3000",
     PAYMENT_CANCEL_URL: "http://localhost:3000/",
