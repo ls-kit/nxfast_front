@@ -23,7 +23,7 @@ const nextConfig = {
         hostname: "localhost",
       },
       {
-        protocol: "https",
+        protocol: "http",
         hostname: "buyapi.alibuybd.com",
       },
     ],
